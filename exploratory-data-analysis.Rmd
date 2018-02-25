@@ -1,0 +1,16 @@
+---
+title: "Summarizing and Describing Data"
+author: "Saurabh Mishra"
+date: "2/21/2018"
+output: github_document
+---
+
+```{r}
+# Set the library with the packages is use
+library(tidyverse)
+require(cowplot)
+
+# Load data
+
+```
+
